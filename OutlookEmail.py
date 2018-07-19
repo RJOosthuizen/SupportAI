@@ -87,3 +87,5 @@ plt.plot(shortSenders, wordsPerMessage)
 plt.title('Words per email in my inbox')
 #plt.xlabel(senders, fontsize=8)
 plt.show()
+
+#test
